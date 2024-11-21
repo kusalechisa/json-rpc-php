@@ -63,7 +63,7 @@ try {
 
    <div id="ft" role="contentinfo">
        <p>Created by @<a href="http://twitter.com/kusa_lechisa">Kusa Lechisa</a> | Download on 
-       <a href="https://github.com/kusalechisa/json-rpc-php">GitHub</a> | 
+       <a href="https://github.com/kusalechisa/json-rpc-php">GitHub</a>
        
    </div>
 </div>
